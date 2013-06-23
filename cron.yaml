@@ -1,0 +1,5 @@
+cron:
+
+- description: daily summary job
+  url: /cron/scrape
+  schedule: every 60 minutes
